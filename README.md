@@ -1,6 +1,9 @@
 # Chicham-Cognates
 I am an MA student at the University of New Mexico and this is my final project for my Data Science course. In this project I aim to use the Leipzig-Jakarta concept list to compare cognates across the four Chicham Languages.
 
+This README file includes my change log as well as my decisions for certain cognates or concept sets. All version files of my cognate judgements and cleaned data are provided in order to trace changes. My finalized csv files that are meant for data analysis and the finalized-cognates.csv as well as the phoneme-inventories.csv. All others are supplemental material
+
+
 
 
 Below is my change log which also contains my decision process on certian cognates
